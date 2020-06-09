@@ -48,8 +48,8 @@ h2{
 }
 html{
 	background-color: rgb(235,235,235);
-	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif
-	padding: 5px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	padding: 5px
 }
 #mainfooter{
 	font-size:20px;
@@ -79,7 +79,7 @@ hr{
 .dropdown {
   position: relative;
   display: inline-block;
-  bottom: 150px;
+  bottom: 135px;
   margin-left: 15px
 
   
@@ -129,7 +129,7 @@ hr{
 .dropdown2 {
   position: relative;
   display: inline-block;
-  bottom: 130px;
+  bottom: 115px;
   margin-left: 15px
 
   
@@ -183,7 +183,7 @@ hr{
 .dropdown3 {
   position: relative;
   display: inline-block;
-  bottom: 130px;
+  bottom: 115px;
   margin-left: 15px
 
   
