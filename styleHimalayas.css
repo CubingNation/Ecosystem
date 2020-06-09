@@ -49,6 +49,7 @@ h2{
 html{
 	background-color: rgb(235,235,235);
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif
+	padding: 5px;
 }
 #mainfooter{
 	font-size:20px;
